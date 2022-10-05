@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a {
+  color: gold;
+  text-decoration: none;
+}
+
+body {
+  text-align: center;
+  color: gold; 
+  font-weight: bold;
+  background-color: navy;
+}
